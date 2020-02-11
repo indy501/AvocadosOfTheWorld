@@ -3,12 +3,15 @@
  * nicholdw@ucmail.uc.edu
  * 
  */
-package fruit;
+package fruit1;
+
+import fruit1.Fruit;
+
 /***
  * Model an Avocado at Meijer in the Produce Department
  * @author nicomp
  *
  */
-public class Avocado extends Fruit {
-
+public class Avacado extends Fruit {
+	
 }
